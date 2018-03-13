@@ -2,3 +2,8 @@
 	path = muk-it/muk_dms
 	url = git@github.com:muk-it/muk_dms.git
 	branch = 11.0
+
+[submodule "muk-it/muk_dms2"]
+	path = muk-it/muk_dms2
+	url = git@github.com:muk-it/muk_dms.git
+	branch = 11.0
